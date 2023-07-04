@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+.anuncio {
+    width: 20%;
+    height: 20%;
+    background-color: white;
+    color: black;
+}
+
+img {
+    width: 80%;
+}
+
+#buttons {
+    display: flex;
+    align-items: flex-start;
+    background-color: black;
+    color: red;
+    height: 10%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+}
